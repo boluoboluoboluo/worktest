@@ -5,3 +5,5 @@ git modify
 git add a line modify
 
 git add a new line git
+
+git add dev
