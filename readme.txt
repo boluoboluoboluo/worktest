@@ -6,4 +6,6 @@ git add a line modify
 
 git add a new line git
 
-git add dev
+git add dev 
+
+create a new branch featrue1
